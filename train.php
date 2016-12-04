@@ -33,7 +33,10 @@ else
             fwrite($prediction, $txt);
         }
         fclose($prediction);
-        $p = popen("python create_training_set.py $output_name", "r");
+        $handle = popen("python create_training_set.py ./ratings/* $output_name", "r");
+		$read   = fread($handle, 8092);
+		echo(" COMMAND OUTPUT: $read");
+		pclose($handle);
         echo("</br></br>Thank you! </br>");
         
     }
