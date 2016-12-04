@@ -33,10 +33,22 @@ else
             fwrite($prediction, $txt);
         }
         fclose($prediction);
+		
+		// create training set
         $handle = popen("python create_training_set.py ./ratings/* $output_name", "r");
 		$read   = fread($handle, 8092);
-		echo(" COMMAND OUTPUT: $read");
+		echo(" COMMAND OUTPUT: $read\n");
 		pclose($handle);
+		
+		// perform training
+        $handle = popen("./rbmApp $read 2>&1", "r"); 
+		$read   = fread($handle, 8092); 
+		echo(" COMMAND OUTPUT: $read\n"); 
+		pclose($handle); 
+
+		// lottarini@atp-ome324:/var/www/html/harp$ ./predict 1682 /home/cfardemo/current_edge_model.txt  /home/cfardemo/ratings/ratings_andrea-5728117108290.txt 
+
+
         echo("</br></br>Thank you! </br>");
         
     }

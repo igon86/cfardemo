@@ -8,7 +8,7 @@ try:
     fout = open(training_file, 'w')
     for num,fname in enumerate(sys.argv[1:]):
 
-        print fname
+        # print fname
         with open(fname) as f:
             content = f.readlines()
 
@@ -23,14 +23,14 @@ except (OSError, IOError) as e:
 
 with open(training_file) as f:
     num_ratings = len(f.readlines())
-    print "This many ratings: ",num_ratings
+    #print "This many ratings: ",num_ratings
 
 with open("movies.txt") as f:
     num_movies = len(f.readlines())
-    print "This many movies: ",num_movies
+    #print "This many movies: ",num_movies
 
 num_users = len(sys.argv) - 1
-print "This many users: ",num_users
+# print "This many users: ",num_users
 
 num_iterations = 20
 
@@ -42,12 +42,11 @@ prediction_file = sys.argv[-1]
 #<num_movies> <num_users> <num_iterations> <training_file> <ratings> <output_model>
 try:
     f = open('parameters.train', 'w')
-    f.write(training_file + " " + str(num_users) + " " + str(num_movies) + " " + str(num_iterations) + " " + str(num_ratings))
+    f.write(training_file + " " + str(num_users) + " " + str(num_movies) + " " + str(num_iterations) + " " + str(num_ratings) + " 10 10 ")
+    print training_file + " " + str(num_users) + " " + str(num_movies) + " " + str(num_iterations) + " " + str(num_ratings) + " 10 10 "
 except (OSError, IOError) as e:
     print "error opening parameters.train: ",e
     raise
-
-
 
 try:
     f = open('parameters.predict', 'w')
@@ -55,8 +54,6 @@ try:
 except (OSError, IOError) as e:
     print "error opening parameters.predict: ",e
     raise
-
-
 
 try:
     f = open('parameters.predict.movielens', 'w')
