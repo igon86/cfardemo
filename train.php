@@ -37,29 +37,29 @@ else
 		// create training set
         $handle = popen("python create_training_set.py ./ratings/* $output_name", "r");
 		$read   = fread($handle, 8092);
-		echo(" COMMAND OUTPUT: $read\n");
+		echo  nl2br (" COMMAND OUTPUT: $read\n");
 		pclose($handle);
 		
 		// perform training
         $handle = popen("./rbmApp $read 2>&1", "r"); 
 		$read   = fread($handle, 8092); 
-		echo(" COMMAND OUTPUT: $read\n"); 
+		echo nl2br (" TRAINING OUTPUT: $read\n"); 
 		pclose($handle); 
 
-		// lottarini@atp-ome324:/var/www/html/harp$ ./predict 1682 /home/cfardemo/current_edge_model.txt  /home/cfardemo/ratings/ratings_andrea-5728117108290.txt 
-
+		// perform prediction on the new model
+		$handle = popen("./predict 1682 edges_after_training.txt $output_name 2>&1","r");
+		$read   = fread($handle, 8092); 
+		echo (" PREDICTION OUTPUT: $read\n"); 
+		pclose($handle); 
 
         echo("</br></br>Thank you! </br>");
-        
     }
 }
 ?>
 
 <a href=index.php>Go back to main page</a>
+</br></br>
+<a href=prediction.php>See CFAR prediction results</a>        
 
-</br></br><a href=prediction.php>See CFAR prediction results</a>
-</br></br><a href=movielens_prediction.php>See MOVIELENS prediction results</a>
-
-</br></br><a href=compare_prediction.php>Compare prediction results</a>
 
 </html>
