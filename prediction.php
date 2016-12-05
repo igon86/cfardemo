@@ -20,16 +20,16 @@
                   });
               }
           });
-      });//]]> 
+      });//]]>
 </script>
 
 <body>
 
 <h1>These are our suggestions</h1> 
 
+<!-- <p class="title-item"><span class="item"><b>Movie</b></a></span> -->
+<!-- <span class="rating"><b>Rating</b>  -->
 
-<p class="title-item"><span class="item"><b>Movie</b></a></span>
-<span class="rating"><b>Rating</b>
 <?php
 /* $fh = fopen('./output_predictions.txt','r'); */
 /* if ($fh == 0) */
@@ -66,13 +66,20 @@
 /* fclose($fh); */
 
 	 $handle = popen("python suggestions.py 2>&1","r");
-		$read   = fread($handle, 8092); 
-		echo (" SUGGESTIONS: $read\n"); 
-		pclose($handle); 
+while ($line = fgets($handle)) 
+{ 
+
+ 	list($name, $score) = split('[,]', $line);  
+ 	echo nl2br ("$name \n"); 
+/* echo "<p class=\"menu-item\"><span class=\"item\"><a href=\"#\" onclick=\"window.open('$link','name','width=600,height=400'); return false;\">$name</a></span>";  */
+/* echo "</p>"; */
+}
+	 pclose($handle); 
 
 ?>
 
-</table>
+<!-- </table> -->
+</br></br>
 <a href=index.php>Go back to main page</a>
 </br></br>
 

@@ -6,7 +6,9 @@ with open("movies.txt") as f:
 with open("output_predictions.txt") as g:
     prediction_list = g.read()
 
-l = zip(movie_list.split("\n"), prediction_list.split("\n"))
+movies = [ x for x in movie_list.split("\n") if len(x) > 0 ]
+movies = [ x.split("|")[1] for x in movies ]
+l = zip(movies, prediction_list.split("\n"))
 random.shuffle(l)
 l.sort(key=operator.itemgetter(1))
-print l
+print "\n".join( [str(x[0])+","+str(x[1]) for x in l[:10] ] )
