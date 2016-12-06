@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
 <body>
-
 <h1>Thanks for your help!</h1>
 
 <?php 
+session_start();
 $ratings = $_POST['ratings'];
 $name = $_POST['name'];
 if(empty($ratings)) 
@@ -28,7 +28,7 @@ else
 		$prediction = fopen($output_name, "w") or die("can't open file");
         foreach($ratings as $movie => $rating)
         {        
-            echo("$movie => $rating </br>");
+            //echo("$movie => $rating </br>");
             $txt = "1,$movie,$rating,0\n";
             fwrite($prediction, $txt);
         }
@@ -37,19 +37,23 @@ else
 		// create training set
         $handle = popen("python create_training_set.py ./ratings/* $output_name", "r");
 		$read   = fread($handle, 8092);
-		echo  nl2br (" COMMAND OUTPUT: $read\n");
+		//echo  nl2br (" COMMAND OUTPUT: $read\n");
 		pclose($handle);
-		
+	
+		$_SESSION['sticazzi'] = $read;	
+		header("Location: test.php"); /* Redirect browser */
+		exit();
+
 		// perform training
         $handle = popen("./rbmApp $read 2>&1", "r"); 
 		$read   = fread($handle, 8092); 
-		echo nl2br (" TRAINING OUTPUT: $read\n"); 
+		//echo nl2br (" TRAINING OUTPUT: $read\n"); 
 		pclose($handle); 
 
 		// perform prediction on the new model
 		$handle = popen("./predict-fp 1682 edges_after_training.txt $output_name 2>&1","r");
 		$read   = fread($handle, 8092); 
-		echo (" PREDICTION OUTPUT: $read\n"); 
+		//echo (" PREDICTION OUTPUT: $read\n"); 
 		pclose($handle); 
 
         echo("</br></br>Thank you! </br>");
