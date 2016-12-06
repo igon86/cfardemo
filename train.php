@@ -47,7 +47,7 @@ else
 		pclose($handle); 
 
 		// perform prediction on the new model
-		$handle = popen("./predict 1682 edges_after_training.txt $output_name 2>&1","r");
+		$handle = popen("./predict-fp 1682 edges_after_training.txt $output_name 2>&1","r");
 		$read   = fread($handle, 8092); 
 		echo (" PREDICTION OUTPUT: $read\n"); 
 		pclose($handle); 

@@ -1,0 +1,89 @@
+1|Toy Story (1995)|01-Jan-1995||http://us.imdb.com/M/title-exact?Toy%20Story%20(1995)|0|0|0|1|1|1|0|0|0|0|0|0|0|0|0|0|0|0|0
+2|GoldenEye (1995)|01-Jan-1995||http://us.imdb.com/M/title-exact?GoldenEye%20(1995)|0|1|1|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0
+3|Four Rooms (1995)|01-Jan-1995||http://us.imdb.com/M/title-exact?Four%20Rooms%20(1995)|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0
+7|Twelve Monkeys (1995)|01-Jan-1995||http://us.imdb.com/M/title-exact?Twelve%20Monkeys%20(1995)|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|1|0|0|0
+8|Babe (1995)|01-Jan-1995||http://us.imdb.com/M/title-exact?Babe%20(1995)|0|0|0|0|1|1|0|0|1|0|0|0|0|0|0|0|0|0|0
+9|Dead Man Walking (1995)|01-Jan-1995||http://us.imdb.com/M/title-exact?Dead%20Man%20Walking%20(1995)|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0
+11|Seven (Se7en) (1995)|01-Jan-1995||http://us.imdb.com/M/title-exact?Se7en%20(1995)|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|1|0|0
+12|Usual Suspects, The (1995)|14-Aug-1995||http://us.imdb.com/M/title-exact?Usual%20Suspects,%20The%20(1995)|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|1|0|0
+14|Postino, Il (1994)|01-Jan-1994||http://us.imdb.com/M/title-exact?Postino,%20Il%20(1994)|0|0|0|0|0|0|0|0|1|0|0|0|0|0|1|0|0|0|0
+17|From Dusk Till Dawn (1996)|05-Feb-1996||http://us.imdb.com/M/title-exact?From%20Dusk%20Till%20Dawn%20(1996)|0|1|0|0|0|1|1|0|0|0|0|1|0|0|0|0|1|0|0
+22|Braveheart (1995)|16-Feb-1996||http://us.imdb.com/M/title-exact?Braveheart%20(1995)|0|1|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|1|0
+23|Taxi Driver (1976)|16-Feb-1996||http://us.imdb.com/M/title-exact?Taxi%20Driver%20(1976)|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|1|0|0
+24|Rumble in the Bronx (1995)|23-Feb-1996||http://us.imdb.com/M/title-exact?Hong%20Faan%20Kui%20(1995)|0|1|1|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0
+28|Apollo 13 (1995)|01-Jan-1995||http://us.imdb.com/M/title-exact?Apollo%2013%20(1995)|0|1|0|0|0|0|0|0|1|0|0|0|0|0|0|0|1|0|0
+29|Batman Forever (1995)|01-Jan-1995||http://us.imdb.com/M/title-exact?Batman%20Forever%20(1995)|0|1|1|0|0|1|1|0|0|0|0|0|0|0|0|0|0|0|0
+33|Desperado (1995)|01-Jan-1995||http://us.imdb.com/M/title-exact?Desperado%20(1995)|0|1|0|0|0|0|0|0|0|0|0|0|0|0|1|0|1|0|0
+39|Strange Days (1995)|01-Jan-1995||http://us.imdb.com/M/title-exact?Strange%20Days%20(1995)|0|1|0|0|0|0|1|0|0|0|0|0|0|0|0|1|0|0|0
+42|Clerks (1994)|01-Jan-1994||http://us.imdb.com/M/title-exact?Clerks%20(1994)|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0
+47|Ed Wood (1994)|01-Jan-1994||http://us.imdb.com/M/title-exact?Ed%20Wood%20(1994)|0|0|0|0|0|1|0|0|1|0|0|0|0|0|0|0|0|0|0
+50|Star Wars (1977)|01-Jan-1977||http://us.imdb.com/M/title-exact?Star%20Wars%20(1977)|0|1|1|0|0|0|0|0|0|0|0|0|0|0|1|1|0|1|0
+53|Natural Born Killers (1994)|01-Jan-1994||http://us.imdb.com/M/title-exact?Natural%20Born%20Killers%20(1994)|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0
+56|Pulp Fiction (1994)|01-Jan-1994||http://us.imdb.com/M/title-exact?Pulp%20Fiction%20(1994)|0|0|0|0|0|0|1|0|1|0|0|0|0|0|0|0|0|0|0
+62|Stargate (1994)|01-Jan-1994||http://us.imdb.com/M/title-exact?Stargate%20(1994)|0|1|1|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0
+64|Shawshank Redemption, The (1994)|01-Jan-1994||http://us.imdb.com/M/title-exact?Shawshank%20Redemption,%20The%20(1994)|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0
+67|Ace Ventura: Pet Detective (1994)|01-Jan-1994||http://us.imdb.com/M/title-exact?Ace%20Ventura:%20Pet%20Detective%20(1994)|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0
+68|Crow, The (1994)|01-Jan-1994||http://us.imdb.com/M/title-exact?Crow,%20The%20(1994)|0|1|0|0|0|0|0|0|0|0|0|0|0|0|1|0|1|0|0
+69|Forrest Gump (1994)|01-Jan-1994||http://us.imdb.com/M/title-exact?Forrest%20Gump%20(1994)|0|0|0|0|0|1|0|0|0|0|0|0|0|0|1|0|0|1|0
+70|Four Weddings and a Funeral (1994)|01-Jan-1994||http://us.imdb.com/M/title-exact?Four%20Weddings%20and%20a%20Funeral%20(1994)|0|0|0|0|0|1|0|0|0|0|0|0|0|0|1|0|0|0|0
+71|Lion King, The (1994)|01-Jan-1994||http://us.imdb.com/M/title-exact?Lion%20King,%20The%20(1994)|0|0|0|1|1|0|0|0|0|0|0|0|1|0|0|0|0|0|0
+72|Mask, The (1994)|01-Jan-1994||http://us.imdb.com/M/title-exact?Mask,%20The%20(1994)|0|0|0|0|0|1|1|0|0|1|0|0|0|0|0|0|0|0|0
+74|Faster Pussycat! Kill! Kill! (1965)|01-Jan-1965||http://us.imdb.com/M/title-exact?Faster%20Pussycat!%20Kill!%20Kill!%20(1965)|0|1|0|0|0|1|0|0|1|0|0|0|0|0|0|0|0|0|0
+82|Jurassic Park (1993)|01-Jan-1993||http://us.imdb.com/M/title-exact?Jurassic%20Park%20(1993)|0|1|1|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0
+89|Blade Runner (1982)|01-Jan-1982||http://us.imdb.com/M/title-exact?Blade%20Runner%20(1982)|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|1|0|0|0
+91|Nightmare Before Christmas, The (1993)|01-Jan-1993||http://us.imdb.com/M/title-exact?Nightmare%20Before%20Christmas,%20The%20(1993)|0|0|0|0|1|1|0|0|0|0|0|0|1|0|0|0|0|0|0
+94|Home Alone (1990)|01-Jan-1990||http://us.imdb.com/M/title-exact?Home%20Alone%20(1990)|0|0|0|0|1|1|0|0|0|0|0|0|0|0|0|0|0|0|0
+95|Aladdin (1992)|01-Jan-1992||http://us.imdb.com/M/title-exact?Aladdin%20(1992)|0|0|0|1|1|1|0|0|0|0|0|0|1|0|0|0|0|0|0
+96|Terminator 2: Judgment Day (1991)|01-Jan-1991||http://us.imdb.com/M/title-exact?Terminator%202:%20Judgment%20Day%20(1991)|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|1|1|0|0
+97|Dances with Wolves (1990)|01-Jan-1990||http://us.imdb.com/M/title-exact?Dances%20with%20Wolves%20(1990)|0|0|1|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|1
+98|Silence of the Lambs, The (1991)|01-Jan-1991||http://us.imdb.com/M/title-exact?Silence%20of%20the%20Lambs,%20The%20(1991)|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|1|0|0
+99|Snow White and the Seven Dwarfs (1937)|01-Jan-1937||http://us.imdb.com/M/title-exact?Snow%20White%20and%20the%20Seven%20Dwarfs%20(1937)|0|0|0|1|1|0|0|0|0|0|0|0|1|0|0|0|0|0|0
+113|Horseman on the Roof, The (Hussard sur le toit, Le) (1995)|19-Apr-1996||http://us.imdb.com/M/title-exact?Hussard%20sur%20le%20toit,%20Le%20(1995)|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0
+114|Wallace & Gromit: The Best of Aardman Animation (1996)|05-Apr-1996||http://us.imdb.com/Title?Wallace+%26+Gromit%3A+The+Best+of+Aardman+Animation+(1996)|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0
+117|Rock, The (1996)|07-Jun-1996||http://us.imdb.com/M/title-exact?Rock,%20The%20(1996)|0|1|1|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0
+118|Twister (1996)|10-May-1996||http://us.imdb.com/M/title-exact?Twister%20(1996)|0|1|1|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0
+121|Independence Day (ID4) (1996)|03-Jul-1996||http://us.imdb.com/M/title-exact?Independence%20Day%20(1996)|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|1|0
+127|Godfather, The (1972)|01-Jan-1972||http://us.imdb.com/M/title-exact?Godfather,%20The%20(1972)|0|1|0|0|0|0|1|0|1|0|0|0|0|0|0|0|0|0|0
+131|Breakfast at Tiffany's (1961)|01-Jan-1961||http://us.imdb.com/M/title-exact?Breakfast%20at%20Tiffany's%20(1961)|0|0|0|0|0|0|0|0|1|0|0|0|0|0|1|0|0|0|0
+132|Wizard of Oz, The (1939)|01-Jan-1939||http://us.imdb.com/M/title-exact?Wizard%20of%20Oz,%20The%20(1939)|0|0|1|0|1|0|0|0|1|0|0|0|1|0|0|0|0|0|0
+133|Gone with the Wind (1939)|01-Jan-1939||http://us.imdb.com/M/title-exact?Gone%20with%20the%20Wind%20(1939)|0|0|0|0|0|0|0|0|1|0|0|0|0|0|1|0|0|1|0
+134|Citizen Kane (1941)|01-Jan-1941||http://us.imdb.com/M/title-exact?Citizen%20Kane%20(1941)|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0
+135|2001: A Space Odyssey (1968)|01-Jan-1968||http://us.imdb.com/M/title-exact?2001:%20A%20Space%20Odyssey%20(1968)|0|0|0|0|0|0|0|0|1|0|0|0|0|1|0|1|1|0|0
+144|Die Hard (1988)|01-Jan-1988||http://us.imdb.com/M/title-exact?Die%20Hard%20(1988)|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0
+151|Willy Wonka and the Chocolate Factory (1971)|01-Jan-1971||http://us.imdb.com/M/title-exact?Willy%20Wonka%20and%20the%20Chocolate%20Factory%20(1971)|0|0|1|0|1|1|0|0|0|0|0|0|0|0|0|0|0|0|0
+154|Monty Python's Life of Brian (1979)|01-Jan-1979||http://us.imdb.com/M/title-exact?Life%20of%20Brian%20(1979)|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0
+155|Dirty Dancing (1987)|01-Jan-1987||http://us.imdb.com/M/title-exact?Dirty%20Dancing%20(1987)|0|0|0|0|0|0|0|0|0|0|0|0|1|0|1|0|0|0|0
+156|Reservoir Dogs (1992)|01-Jan-1992||http://us.imdb.com/M/title-exact?Reservoir%20Dogs%20(1992)|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|1|0|0
+157|Platoon (1986)|01-Jan-1986||http://us.imdb.com/M/title-exact?Platoon%20(1986)|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|1|0
+159|Basic Instinct (1992)|01-Jan-1992||http://us.imdb.com/M/title-exact?Basic%20Instinct%20(1992)|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|1|0|0
+161|Top Gun (1986)|01-Jan-1986||http://us.imdb.com/M/title-exact?Top%20Gun%20(1986)|0|1|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0
+168|Monty Python and the Holy Grail (1974)|01-Jan-1974||http://us.imdb.com/M/title-exact?Monty%20Python%20and%20the%20Holy%20Grail%20(1974)|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0
+170|Cinema Paradiso (1988)|01-Jan-1988||http://us.imdb.com/M/title-exact?Nuovo%20cinema%20Paradiso%20(1988)|0|0|0|0|0|1|0|0|1|0|0|0|0|0|1|0|0|0|0
+172|Empire Strikes Back, The (1980)|01-Jan-1980||http://us.imdb.com/M/title-exact?Empire%20Strikes%20Back,%20The%20(1980)|0|1|1|0|0|0|0|0|1|0|0|0|0|0|1|1|0|1|0
+174|Raiders of the Lost Ark (1981)|01-Jan-1981||http://us.imdb.com/M/title-exact?Raiders%20of%20the%20Lost%20Ark%20(1981)|0|1|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0
+176|Aliens (1986)|01-Jan-1986||http://us.imdb.com/M/title-exact?Aliens%20(1986)|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|1|1|1|0
+177|Good, The Bad and The Ugly, The (1966)|01-Jan-1966||http://us.imdb.com/M/title-exact?Buono,%20il%20brutto,%20il%20cattivo,%20Il%20(1966)|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1
+179|Clockwork Orange, A (1971)|01-Jan-1971||http://us.imdb.com/M/title-exact?Clockwork%20Orange,%20A%20(1971)|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0
+180|Apocalypse Now (1979)|01-Jan-1979||http://us.imdb.com/M/title-exact?Apocalypse%20Now%20(1979)|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|1|0
+181|Return of the Jedi (1983)|14-Mar-1997||http://us.imdb.com/M/title-exact?Return%20of%20the%20Jedi%20(1983)|0|1|1|0|0|0|0|0|0|0|0|0|0|0|1|1|0|1|0
+182|GoodFellas (1990)|01-Jan-1990||http://us.imdb.com/M/title-exact?GoodFellas%20(1990)|0|0|0|0|0|0|1|0|1|0|0|0|0|0|0|0|0|0|0
+183|Alien (1979)|01-Jan-1979||http://us.imdb.com/M/title-exact?Alien%20(1979)|0|1|0|0|0|0|0|0|0|0|0|1|0|0|0|1|1|0|0
+185|Psycho (1960)|01-Jan-1960||http://us.imdb.com/M/title-exact?Psycho%20(1960)|0|0|0|0|0|0|0|0|0|0|0|1|0|0|1|0|1|0|0
+186|Blues Brothers, The (1980)|01-Jan-1980||http://us.imdb.com/M/title-exact?Blues%20Brothers,%20The%20(1980)|0|1|0|0|0|1|0|0|0|0|0|0|1|0|0|0|0|0|0
+187|Godfather: Part II, The (1974)|01-Jan-1974||http://us.imdb.com/M/title-exact?Godfather:%20Part%20II,%20The%20(1974)|0|1|0|0|0|0|1|0|1|0|0|0|0|0|0|0|0|0|0
+188|Full Metal Jacket (1987)|01-Jan-1987||http://us.imdb.com/M/title-exact?Full%20Metal%20Jacket%20(1987)|0|1|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|1|0
+191|Amadeus (1984)|01-Jan-1984||http://us.imdb.com/M/title-exact?Amadeus%20(1984)|0|0|0|0|0|0|0|0|1|0|0|0|0|1|0|0|0|0|0
+192|Raging Bull (1980)|01-Jan-1980||http://us.imdb.com/M/title-exact?Raging%20Bull%20(1980)|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0
+195|Terminator, The (1984)|01-Jan-1984||http://us.imdb.com/M/title-exact?Terminator,%20The%20(1984)|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|1|1|0|0
+196|Dead Poets Society (1989)|01-Jan-1989||http://us.imdb.com/M/title-exact?Dead%20Poets%20Society%20(1989)|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0
+198|Nikita (La Femme Nikita) (1990)|01-Jan-1990||http://us.imdb.com/M/title-exact?Nikita%20(1990)|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0
+200|Shining, The (1980)|01-Jan-1980||http://us.imdb.com/M/title-exact?Shining,%20The%20(1980)|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0
+201|Evil Dead II (1987)|01-Jan-1987||http://us.imdb.com/M/title-exact?Evil%20Dead%20II%20(1987)|0|1|1|0|0|1|0|0|0|0|0|1|0|0|0|0|0|0|0
+202|Groundhog Day (1993)|01-Jan-1993||http://us.imdb.com/M/title-exact?Groundhog%20Day%20(1993)|0|0|0|0|0|1|0|0|0|0|0|0|0|0|1|0|0|0|0
+204|Back to the Future (1985)|01-Jan-1985||http://us.imdb.com/M/title-exact?Back%20to%20the%20Future%20(1985)|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|1|0|0|0
+206|Akira (1988)|01-Jan-1988||http://us.imdb.com/M/title-exact?Akira%20(1988)|0|0|1|1|0|0|0|0|0|0|0|0|0|0|0|1|1|0|0
+209|This Is Spinal Tap (1984)|01-Jan-1984||http://us.imdb.com/M/title-exact?This%20Is%20Spinal%20Tap%20(1984)|0|0|0|0|0|1|0|0|1|0|0|0|1|0|0|0|0|0|0
+210|Indiana Jones and the Last Crusade (1989)|01-Jan-1989||http://us.imdb.com/M/title-exact?Indiana%20Jones%20and%20the%20Last%20Crusade%20(1989)|0|1|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0
+214|Pink Floyd - The Wall (1982)|01-Jan-1982||http://us.imdb.com/M/title-exact?Pink%20Floyd%20-%20The%20Wall%20(1982)|0|0|0|0|0|0|0|0|1|0|0|0|1|0|0|0|0|1|0
+216|When Harry Met Sally... (1989)|01-Jan-1989||http://us.imdb.com/M/title-exact?When%20Harry%20Met%20Sally...%20(1989)|0|0|0|0|0|1|0|0|0|0|0|0|0|0|1|0|0|0|0
+217|Bram Stoker's Dracula (1992)|01-Jan-1992||http://us.imdb.com/M/title-exact?Bram%20Stoker's%20Dracula%20(1992)|0|0|0|0|0|0|0|0|0|0|0|1|0|0|1|0|0|0|0

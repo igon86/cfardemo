@@ -36,7 +36,7 @@ Name: <input type="text" name="name" value="<?php echo $name;?>">
 <p class="title-item"><span class="item"><b>Movie</b></a></span>
 <span class="rating"><b>Rating</b>
 <?php
-$fh = fopen('./movies.txt','r');
+$fh = fopen('./movies_small.txt','r');
 if ($fh == 0)
 {
     echo "file NOT found";
