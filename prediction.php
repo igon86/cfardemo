@@ -75,7 +75,6 @@ while ($line = fgets($handle))
 /* echo "</p>"; */
 }
 	 pclose($handle); 
-
 ?>
 
 <!-- </table> -->

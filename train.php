@@ -4,7 +4,10 @@
 <h1>Thanks for your help!</h1>
 
 <?php 
-session_start();
+ob_implicit_flush(true);
+ob_end_flush();
+
+//session_start();
 $ratings = $_POST['ratings'];
 $name = $_POST['name'];
 if(empty($ratings)) 
@@ -40,9 +43,11 @@ else
 		//echo  nl2br (" COMMAND OUTPUT: $read\n");
 		pclose($handle);
 	
-		$_SESSION['sticazzi'] = $read;	
-		header("Location: test.php"); /* Redirect browser */
-		exit();
+		flush();
+		/* $_SESSION['read'] = $read;	 */
+		/* $_SESSION['output_name'] = $output_name;	 */
+		/* header("Location: test.php"); /\* Redirect browser *\/ */
+		/* exit(); */
 
 		// perform training
         $handle = popen("./rbmApp $read 2>&1", "r"); 
@@ -56,7 +61,8 @@ else
 		//echo (" PREDICTION OUTPUT: $read\n"); 
 		pclose($handle); 
 
-        echo("</br></br>Thank you! </br>");
+        echo("</br></br>Prediction Complete! </br>");
+
     }
 }
 ?>
