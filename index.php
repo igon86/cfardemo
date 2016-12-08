@@ -25,7 +25,7 @@
 
 <body>
 
-<h1>Hardware Acceleration of Collaborative Filtering: Let us build the CFAR Prediction Model</h1>
+<h1>The Great CFAR Movie Database</h1>
  
 Which movies did you watch?<br /><br />
 <form action="train.php" method="post">
@@ -59,7 +59,7 @@ while ($line = fgets($fh))
     echo "</p>";
     $counter++;
 }
-echo count($names);
+//echo count($names);
 fclose($fh);
 ?>
 

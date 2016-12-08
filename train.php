@@ -22,6 +22,7 @@ else
     } 
     else
     {
+		
         $N = count($ratings);
 		echo("You selected $N movie(s): </br>");
         $N2 = count($names);
